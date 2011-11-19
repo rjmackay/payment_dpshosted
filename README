@@ -2,6 +2,10 @@
 DPS Hosted Payment Module
 ###############################################
 
+This is based on old code from silverstripe svn and some bits from dps' own module - mix together and cleaned up. See the discussions on the forum
+Hacked by Robbie Mackay (rm@robbiemackay.com) and provied AS IS
+
+
 Maintainer Contact
 -----------------------------------------------
 Normann Lou (Nickname: nlou)
